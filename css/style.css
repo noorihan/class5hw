@@ -1,0 +1,147 @@
+body{
+    
+    background: #ee9ca7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+h2{
+    font-family: cursive;
+    font-weight: bolder;
+    color: black;
+    font-size: 50px;
+    text-decoration: underline;
+}
+.parent{
+    width: 95%;
+    margin: auto;
+
+}
+
+.card{
+    background-color: lightskyblue;
+    width: 350px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px 25px;
+    margin: 25px auto;
+    display: inline-block;
+    border-style: dotted;
+
+   
+    border-color: white;
+    
+}
+.card span{
+    font-weight: bolder;
+    color: #E55D87;
+    font-size: 130%;
+
+}
+.card a{
+    background-color: #E55D87;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 15px 25px;
+    display: inline-block;
+}
+.mc{
+    background: #fffbd5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #b20a2c, #fffbd5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #b20a2c, #fffbd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ color: darkblue;
+ font-family: cursive;
+ text-align: center;
+ font-weight: bolder;
+ font-style: italic;
+ padding: 72px  0px 34px 0px;
+ border: #fffbd5;
+ border-style: groove;
+
+}
+.one{
+    font-size: 27px;
+}
+.two{
+    font-size: 35px;
+    background: #12c2e9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+padding: 134px  0px 25px 0px;
+color: #ffdde1;
+}
+.three{
+    font-size: 28px;
+    padding-top: 60px;
+    color: brown;
+    background: #A1FFCE;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #FAFFD1, #A1FFCE);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #FAFFD1, #A1FFCE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.course{
+    border: 0px;
+    width: 350px;
+    height: 200;
+}
+.course{
+   
+    
+    background-size: 100% 200px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-color: white;
+    line-height: 20px;
+
+    
+
+   
+}
+.MG{
+    background-image: url(../images/CIT.jpg);
+}
+.UI{
+    background-image: url(../images/CIT2.jpg);
+}
+.digital{
+    background-image: url(../images/CIT3.jpg);
+}
+.gd{
+    background-image: url(../images/CIT1.jpg);
+}
+
+.course a {
+    
+    background-color: white;
+    color: red;
+    
+  
+    
+}
+.daraz a{
+    background-color: white;
+}
+.daraz{
+    border:0px ;
+    background-color: white;
+    background-size: 100% 200px;
+    background-repeat: no-repeat;
+    
+}
+
+.productone{
+    background-image: url(../images/daraz1.jpg);
+}
+.producttwo{
+    background-image: url(../images/daraz2.jpg);
+   
+}
+.productthree{
+    background-image: url(../images/daraz3.jpg);
+    padding-top: 85px;
+   
+}
+
+
+
